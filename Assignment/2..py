@@ -31,3 +31,4 @@ for num in range(lower, upper + 1):
 
     if num == sum:
         print(num)
+
